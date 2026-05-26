@@ -140,4 +140,15 @@ int main()
             cin >> ch;
             cout << endl;
             
+            switch (ch)
+            {
+            case '1':
+            {
+
+            q.insert();
+            break;
+        }
+        case '2':
+        {
+            q.remove();
             
